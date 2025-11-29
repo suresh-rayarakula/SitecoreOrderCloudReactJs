@@ -36,6 +36,8 @@ https://sureshrayarakula.wordpress.com/2025/11/26/building-a-complete-ecommerce-
 
 > **“Building a Complete eCommerce App with React + Sitecore OrderCloud”**  
 > By **Suresh Rayarakula**
+> <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/ed4a916e-0649-4716-94a6-25d8180d9182" />
+
 - 🔗 Live Demo:
 - https://rect-js-order-cloud.vercel.app/
 
